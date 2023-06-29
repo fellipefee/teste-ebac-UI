@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/fellipefee/teste-ebac-UI#readme",
   "devDependencies": {
-    "cypress": "^12.15.0"
+    "cypress": "^12.16.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "faker": "^6.6.6"
   }
 }
