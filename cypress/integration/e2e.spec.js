@@ -31,7 +31,7 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
 
             // Deve adicionar produtos ao carrinho'
 
-            cy.visit('produtos/page/2/')
+            cy.visit('produtos/page/1/')
             cy.addProdutos('Atlas Fitness Tank', 'M', 'Blue', 4)
 
 
